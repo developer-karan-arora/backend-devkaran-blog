@@ -1,0 +1,12 @@
+suppose i add feature of visibity 
+so how to manage all previous posts 
+should i made all post to visible
+
+
+what if i do paggination 
+but while disaplaying then if i got 
+visibility hidden for 3 out of 10 posts 
+then i hot 7 or how to manage these
+
+updateOne and updateById kon better 
+deletemany updatemany kese use 
