@@ -1,7 +1,7 @@
 const mongoose = require("mongoose")
 const express = require("express")
 const cors = require("cors")
-const port = 3000;
+const port = process.env.port || 3000;
 const app = express();
 const corsOption = {
     origin: ['http://localhost:5173',"https://frontend-devkaran-blog.vercel.app"]
